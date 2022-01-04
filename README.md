@@ -2,5 +2,5 @@
 
 > This is a story of optimisation.
 
-The implementation of BDA in RASCIL existed in version 0.1.11. However, it was removed after the adjustment in version 0.2.
-We tried to make some optimisations to the original BDA implementation and the results were not bad. And for the big changes in version 0.2 of RASCIL, we added some additional modules to run the BDA programs.
+In RASCIL, the implementation of BDA existed in version 0.1.11. However, it was removed with the adjustments in version 0.2. 
+We have tried to make some optimisations to the original BDA implementation and the results are not bad. And for the big changes in RASCIL version 0.2, we added some additional modules to run the BDA programs.
